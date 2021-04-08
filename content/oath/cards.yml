@@ -210,7 +210,7 @@
 - name: Elders
   image: Elders
   suit: nomad
-  text: "**Action**: Gain `symbol:favor`."
+  text: "**Action**: Gain `symbol:secret`."
   powerCost: `symbol:favor` `symbol:favor`
   set:
     - Standard Deck
